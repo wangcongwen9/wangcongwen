@@ -1,0 +1,14 @@
+{
+    "name": "wcw/test",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dawang",
+            "email": "2516968484@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
